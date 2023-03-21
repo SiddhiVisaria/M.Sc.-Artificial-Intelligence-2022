@@ -1,6 +1,6 @@
 # Semester A
 
-# This semester consists of 4 modules:
+### This semester consists of 4 modules:
 
 1. Machine Learning (Core)
 2. Artificial Intelligence (Core)
